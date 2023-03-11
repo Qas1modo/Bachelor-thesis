@@ -13,6 +13,7 @@ In particular, the student should:
 3) work out illustrative cases, which can occur in the context of updates and integrity verification of individual provenance parts; 
 4) express these situations in terms of PROV-DM; 
 5) verify, whether the updates can disrupt traceability of objects and integrity verification process in distributed provenance chains.
+
 Expected outputs of the thesis are sets of interconnected and digitally signed provenance parts,
 demonstrating the cases in provenance chains, and evaluation of findings. The implementation part of the thesis serves
 as an illustrative demonstration of the student's findings.
